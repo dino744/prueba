@@ -29,3 +29,5 @@ tiled=[[0,0,0,0,0,0,0,0,0,0,0.0,0],
 
 a=Nivel(tiled)
 a.iniciar_mapa()
+
+print("actu")
